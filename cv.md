@@ -6,3 +6,12 @@
  * Email: eduard.rogach@gmail.com
  * GitHub: EduardRogach
  * Discort: EduardRogach
+
+## About myself:
+I am 35 years old, I work as a system administrator. I think that my real job will sooner or later lead me to stagnation. I need a job in which I could develop further.
+
+## Skills:
+ * HTML,  CSS
+ * JavaScript (Basic)
+ * Git, GitHub
+ * VS Code
