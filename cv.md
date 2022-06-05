@@ -15,3 +15,19 @@ I am 35 years old, I work as a system administrator. I think that my real job wi
  * JavaScript (Basic)
  * Git, GitHub
  * VS Code
+
+## Code example:
+
+```function testWhile(a) {
+    var x=0;
+    var y=1;
+while (y <= a) {
+  if (y % 2 == 0) {
+    x = x + y;
+  }
+  y = y + 1;  
+}
+    return x;
+}
+```
+Work experience:
